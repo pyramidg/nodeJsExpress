@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/grayscale.css' />
+
+    <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
+
+
+  </head>
+  <body id="page-top"  data-spy="scroll" data-target=".navbar-fixed-top">
+
+      <!-- Navigation -->
+      <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+          <div class="container">
+              <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                      <i class="fa fa-bars"></i>
+                  </button>
+                  <a class="navbar-brand page-scroll" href="#page-top">
+                      <i class="fa fa-play-circle"></i>  <span class="light">Experienced Web</span> Developer
+                  </a>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                  <ul class="nav navbar-nav">
+                      <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                      <li class="hidden">
+                          <a href="#page-top"></a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#about">Profile</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#download">Skills</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#projects">Projects</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="#contact">Contact</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="http://webstudioplace.com/">Return</a>
+                      </li>
+                  </ul>
+              </div>
+              <!-- /.navbar-collapse -->
+          </div>
+          <!-- /.container -->
+      </nav>
+
+      <!-- Intro Header -->
+      <header class="intro">
+          <div class="intro-body">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-12 ">
+                          <h1 class="brand-heading ">Web Studio Place</h1>
+                          <p class="intro-text">Introducing<br>Pyramid Guest</p>
+                          <a href="#about" class="btn btn-circle page-scroll">
+                              <i class="fa fa-angle-double-down animated"></i>
+                          </a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </header>
+
+      <!-- Skills Section -->
+      <section id="about" class="container content-section text-center">
+          <div class="row">
+              <div class="col-l-8 col-lg-offset-0">
+                  <h2>Profile </h2>
+
+      <i class="fa">
+      <p>
+        Experienced web developer with a broad technical skill set and specializing in creating web applications using Node.js. Effective in identifying problem cause and taking necessary actions to resolve problems. Demonstrated ability to timely interpret and implement client and/or team visions pertaining to websites.
+      </p>
+      </i>
+              </div>
+          </div>
+      </section>
+
+
+      <section id="download" class="content-section text-center">
+          <div class="download-section">
+              <h2 >Skills</h2>
+              <div class="container">
+                <div class="column-center"> JavaScript, Java , PHP, jQuery,  Node.JS, Angular.JS,  JSON,  MySQL, Sublime, Eclipse </div>
+                <div class="column-left"> HTML5, CSS,  CSS3, SASS, LESS,  Grunt,  NPM,  AJAX,  Web-pack, Apache ,  NginX, LAMP, Atom   </div>
+                <div class="column-right"> Xcode, Mac OS, Linux,  cPanel,  FileZilla,  Wordpress, API, GitHub,  Bootstrap, Express, Yo and more.</div>
+              </div>
+          </div>
+
+      </section>
+
+      <section class="mapsk">
+        <!-- Black Section  -->
+      </section>
+
+      <section id="projects" class="container-fluid">
+          <div class="row">
+            <div class="col-md-4">
+              <!-- FEATURE ONE WSP -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/01/Macbook-laptop.png" alt="" />
+      						<div class="overlay">
+      							<h2 class="hoverText1"> PHP, CSS3, Jquery, Mysql</h2>
+      		<a href="http://webstudioplace.com/contact/" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+          </button><a/>
+      						</div>
+      				</div>
+            </div>
+            <div class="col-md-4">
+              <!-- FEATURE TWO Travel -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/travel-laptop.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1">HTML5, CSS3, Jquery, </h2>
+                  <a href="http://webstudioplace.com/contact/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                  </button></a>
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE THREE HHN -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/real-estate-laptop.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1">PHP, CSS3, Jquery UI, Mysql</h2>
+                <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                </button></a>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <!-- Second - Row -->
+          <div class="row">
+            <div class="col-md-4">
+              <!-- FEATURE FOUR SCROLL-EFFECT -->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/scrol-laptop.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1"> PHP, CSS3, Jquery, JqueryUI </h2>
+                <a href="http://webstudioplace.com/contact/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                </button></a>
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE FIVE PORTFOLIO_WORK_DEMO-->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="http://webstudioplace.com/wp-content/uploads/2016/08/portfolio-laptop.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, jquery </h2>
+                  <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                  </button></a>
+                  </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <!-- FEATURE SIX ANGULAR JS-->
+              <div class="hover ehover3">
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="http://webstudioplace.com/wp-content/uploads/2016/08/angular-laptop.png" alt="" />
+                  <div class="overlay">
+                    <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
+                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                </button></a>
+                  </div>
+              </div>
+            </div>
+          </div>
+
+      </section>
+
+
+
+      <!-- Map Section
+
+      <section id="map" class="mapBox content-section text-center">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+
+
+
+
+
+              </div>
+          </div>
+      </section>
+   -->
+
+
+      <!-- Contact Section -->
+      <section id="contact" class="container content-section text-center">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                  <h2>Contact</h2>
+                  <p>Feel free to contact me at any of the options below to further discuss how I can be an asset to your company.
+
+
+
+                  </p>
+
+                  <ul class="list-inline banner-social-buttons">
+
+                      <li>
+                          <a href="https://github.com/pyramidg" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                      </li>
+                      <li>
+                          <a href="mailto:pyramidguest@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Email</span></a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </section>
+
+
+      <!-- Footer -->
+      <footer>
+          <div class="container text-left">
+
+              <p class="copyR">Copyright &copy; Web Studio Place 2016</p>
+          </div>
+      </footer>
+
+
+      <!-- jQuery -->
+      <script src="/javascripts/scripts.js"></script>
+      <script src="/javascripts/jquery.js"></script>
+
+      <!-- Plugin JavaScript -->
+      <script src="/javascripts/jquery.easing.min.js"></script>
+      <!-- Bootstrap Core JavaScript -->
+      <script src="/javascripts/bootstrap.min.js"></script>
+
+      <!--CDN link for  TweenMax-->
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+      <!--ENDBUILD-->
+
+
+      <!-- Custom Theme JavaScript -->
+      <script src="/javascripts/scale.js"></script>
+
+</html>
