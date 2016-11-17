@@ -45,7 +45,7 @@
                           <a href="#page-top"></a>
                       </li>
                       <li>
-                          <a class="page-scroll" href="#about">Profile</a>
+                          <a class="page-scroll" href="#profile">Profile</a>
                       </li>
                       <li>
                           <a class="page-scroll" href="#download">Skills</a>
@@ -72,9 +72,11 @@
               <div class="container">
                   <div class="row">
                       <div class="col-lg-12 ">
-                          <h1 class="brand-heading ">Web Studio Place</h1>
-                          <p class="intro-text">Introducing<br>Pyramid Guest</p>
-                          <a href="#about" class="btn btn-circle page-scroll">
+                          <h1 class="brand-heading ">Web Studio Place</h1><br>
+                          <p class="intro-text">Introducing</p>
+                          <p class="intro-text2">Pyramid Guest</p>
+
+                          <a href="#profile" class="btn btn-circle page-scroll">
                               <i class="fa fa-angle-double-down animated"></i>
                           </a>
                       </div>
@@ -84,16 +86,17 @@
       </header>
 
       <!-- Skills Section -->
-      <section id="about" class="container content-section text-center">
-          <div class="row">
+      <section id="profile" class="container-fluid text-center">
+          <div class="row"> <br> <br> <br>
+              <h2>Profile </h2> <br>
               <div class="col-l-8 col-lg-offset-0">
-                  <h2>Profile </h2> <br>
 
-      <i class="fa">
+
+
       <p>
         Experienced web developer with a broad technical skill set and specializing in creating web applications using Node.js. Effective in identifying problem cause and taking necessary actions to resolve problems. Demonstrated ability to timely interpret and implement client and/or team visions pertaining to websites.
       </p>
-      </i>
+
               </div>
           </div>
       </section>
@@ -184,7 +187,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="http://webstudioplace.com/wp-content/uploads/2016/08/angular-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact 
+                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
@@ -217,10 +220,8 @@
               <div class="col-lg-8 col-lg-offset-2"> <br> <br>
                   <h2>Contact</h2> <br>
                   <p>Feel free to contact me at any of the options below to further discuss how I can be an asset to your company.
-
-
-
                   </p>
+                  <br>
 
                   <ul class="list-inline banner-social-buttons">
 
@@ -234,6 +235,7 @@
               </div>
           </div>
       </section>
+
 
 
       <!-- Footer -->
