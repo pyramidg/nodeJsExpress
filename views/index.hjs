@@ -115,7 +115,7 @@
       <section id="projects" class="container-fluid text-center">
 
 
-          <div class="row"> <br> <br>
+          <div class="row"> <br> <br> <br>
             <h2 >Projects</h2> <br>
             <div class="col-md-4">
               <!-- FEATURE ONE WSP -->
@@ -123,7 +123,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/01/Macbook-laptop.png" alt="" />
       						<div class="overlay">
       							<h2 class="hoverText1"> PHP, CSS3, Jquery, Mysql</h2>
-      		<a href="http://webstudioplace.com/contact/" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+      		<a href="http://webstudioplace.com/contact/" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-envelope "></span> Contact
           </button><a/>
       						</div>
       				</div>
@@ -134,7 +134,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/travel-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">HTML5, CSS3, Jquery, </h2>
-                  <a href="http://webstudioplace.com/contact/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                  <a href="http://webstudioplace.com/contact/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-envelope "></span> Contact
                   </button></a>
                   </div>
               </div>
@@ -146,7 +146,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/real-estate-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">PHP, CSS3, Jquery UI, Mysql</h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
@@ -160,7 +160,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="http://webstudioplace.com/wp-content/uploads/2016/08/scrol-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> PHP, CSS3, Jquery, JqueryUI </h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                <a href="http://webstudioplace.com/contact/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
@@ -172,7 +172,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="http://webstudioplace.com/wp-content/uploads/2016/08/portfolio-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, jquery </h2>
-                  <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                  <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                   </button></a>
                   </div>
               </div>
@@ -184,7 +184,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="http://webstudioplace.com/wp-content/uploads/2016/08/angular-laptop.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">Contact Us
+                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact 
                 </button></a>
                   </div>
               </div>
@@ -214,7 +214,7 @@
       <!-- Contact Section -->
       <section id="contact" class="container  text-center">
           <div class="row">
-              <div class="col-lg-8 col-lg-offset-2">
+              <div class="col-lg-8 col-lg-offset-2"> <br> <br>
                   <h2>Contact</h2> <br>
                   <p>Feel free to contact me at any of the options below to further discuss how I can be an asset to your company.
 
@@ -240,7 +240,7 @@
       <footer>
           <div class="container text-left">
 
-              <p class="copyR">Copyright &copy; Web Studio Place 2016</p>
+              <small class="copyR">Copyright &copy; Web Studio Place 2016</small>
           </div>
       </footer>
 
