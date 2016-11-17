@@ -11,8 +11,10 @@
 
   <!-- Hover CSS -->
   <link href="stylesheets/hover-min.css" rel="stylesheet">
-  <!-- Custom CSS -->
+  <!-- Custom CSS
   <link href="stylesheets/grayscale.ss" rel="stylesheet">
+  -->
+
 
 
   <!-- Custom Fonts -->
