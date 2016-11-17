@@ -296,11 +296,11 @@ a:focus {
     height: 100%;
     padding: 100px 0;
     color: #fff;
-    background: url(https://hd.unsplash.com/photo-1463590780123-b66a3da8a2b3) no-repeat center center fixed;
+    background: url(https://hd.unsplash.com/photo-1463590780123-b66a3da8a2b3) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: contain;
+    background-size: cover;
     -o-background-size: cover;
 }
 
