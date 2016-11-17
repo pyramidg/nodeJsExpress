@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+
+
+   <title>User Experience</title>
     <link rel='stylesheet' href='/stylesheets/grayscale.css' />
 
     <link rel='stylesheet' href='/stylesheets/bootstrap.min.css' />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
+  <!-- Hover CSS -->
+  <link href="stylesheets/hover-min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <link href="stylesheets/grayscale.ss" rel="stylesheet">
+
+
+  <!-- Custom Fonts -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
   </head>
   <body id="page-top"  data-spy="scroll" data-target=".navbar-fixed-top">
