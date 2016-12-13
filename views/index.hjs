@@ -76,7 +76,7 @@
                           <p class="intro-text">Introducing</p>
                           <p class="intro-text2">Pyramid Guest</p>
 
-                          <a href="#profile" class="btn btn-circle page-scroll">
+                          <a href="profile" class="btn btn-circle page-scroll">
                               <i class="fa fa-angle-double-down animated"></i>
                           </a>
                       </div>
