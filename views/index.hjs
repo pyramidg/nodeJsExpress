@@ -128,7 +128,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
       						<div class="overlay">
       							<h2 class="hoverText1"> PHP, CSS3, Jquery, Mysql</h2>
-      		<a href="http://webstudioplace.com/contact/" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-envelope "></span> Contact
+      		<a href="http://webstudioplace.com/contact" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-envelope "></span> Contact
           </button><a/>
       						</div>
       				</div>
@@ -139,7 +139,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">HTML5, CSS3, Jquery, </h2>
-                  <a href="http://webstudioplace.com/contact/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-envelope "></span> Contact
+                  <a href="http://webstudioplace.com/contact" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-envelope "></span> Contact
                   </button></a>
                   </div>
               </div>
@@ -151,7 +151,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5755/30384564464_ec3e8d5f8f_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">PHP, CSS3, Jquery UI, Mysql</h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com/contact" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
@@ -165,7 +165,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> PHP, CSS3, Jquery, JqueryUI </h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com/contact" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
@@ -177,7 +177,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5725/30384564564_c9a522bc8f_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, jquery </h2>
-                  <a href="http://webstudioplace.com/contact/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                  <a href="http://webstudioplace.com/contact" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                   </button></a>
                   </div>
               </div>
@@ -189,7 +189,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
-                <a href="http://webstudioplace.com/contact/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com/contact" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
                 </button></a>
                   </div>
               </div>
