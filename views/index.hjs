@@ -132,11 +132,11 @@
       				</div>
             </div>
             <div class="col-md-4">
-              <!-- FEATURE TWO Hotel Travel -->
+              <!-- FEATURE TWO ISroll -->
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less </h2>
+                    <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
                 <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
 
@@ -159,11 +159,11 @@
           <!-- Second - Row -->
           <div class="row">
             <div class="col-md-4">
-              <!-- FEATURE FOUR SCROLL-EFFECT -->
+              <!-- FEATURE FOUR Hotel Travel -->
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
                     <div class="overlay">
-                      <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
+                      <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
                     <a href="http://webstudioplace.com:3002/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
                     </button></a>
                   </div>
@@ -175,7 +175,7 @@
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c1.staticflickr.com/3/2883/32905833274_f61f6905af_b.jpg" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, Jquery </h2>
+                    <h2 class="hoverText1"> API, XHR, AJAX, Angular  </h2>
                   <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
