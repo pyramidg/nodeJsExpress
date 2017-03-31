@@ -125,30 +125,30 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
       						<div class="overlay">
       							<h2 class="hoverText1"> PHP, CSS3, Jquery, Mysql</h2>
-      		<a href="http://webstudioplace.com/contact" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-envelope "></span> Contact
+      		<a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
           </button><a/>
       						</div>
       				</div>
             </div>
             <div class="col-md-4">
-              <!-- FEATURE TWO Travel -->
+              <!-- FEATURE TWO Hotel Travel -->
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">HTML5, CSS3, Jquery, </h2>
-                  <a href="http://webstudioplace.com/contact" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-envelope "></span> Contact
+                  <a href="http://webstudioplace.com:3002/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
             </div>
 
             <div class="col-md-4">
-              <!-- FEATURE THREE HHN -->
+              <!-- FEATURE THREE REACT-->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5755/30384564464_ec3e8d5f8f_o.png" alt="" />
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/3/2888/32905833514_302c70266b_b.jpg" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">PHP, CSS3, Jquery UI, Mysql</h2>
-                <a href="http://webstudioplace.com/contact" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
@@ -162,19 +162,19 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> PHP, CSS3, Jquery, JqueryUI </h2>
-                <a href="http://webstudioplace.com/contact" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
             </div>
 
             <div class="col-md-4">
-              <!-- FEATURE FIVE PORTFOLIO_WORK_DEMO-->
+              <!-- FEATURE FIVE CODE SAMPLE WORK_DEMO-->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5725/30384564564_c9a522bc8f_o.png" alt="" />
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c1.staticflickr.com/3/2883/32905833274_f61f6905af_b.jpg" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, jquery </h2>
-                  <a href="http://webstudioplace.com/contact" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
@@ -186,7 +186,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
-                <a href="http://webstudioplace.com/contact" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-envelope "></span> Contact
+                <a href="http://webstudioplace.com:3005/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
@@ -211,7 +211,7 @@
 
                   <ul class="list-inline banner-social-buttons">
 
-                    
+
                       <li>
                           <a href="mailto:pyramidguest@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Email</span></a>
                       </li>
