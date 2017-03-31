@@ -120,24 +120,26 @@
           <div class="row"> <br> <br> <br>
             <h2 >Projects</h2> <br>
             <div class="col-md-4">
-              <!-- FEATURE ONE WSP -->
+              <!-- FEATURE ONE ANGULAR JS -->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
+
       						<div class="overlay">
-      							<h2 class="hoverText1"> PHP, CSS3, Jquery, Mysql</h2>
-      		<a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
-          </button><a/>
+      							<h2 class="hoverText1"> AngularJs, Ejs, Json, NodeJs</h2>
+                    <a href="http://webstudioplace.com:3005/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+               </button><a/>
       						</div>
       				</div>
             </div>
             <div class="col-md-4">
               <!-- FEATURE TWO Hotel Travel -->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1">HTML5, CSS3, Jquery, </h2>
-                  <a href="http://webstudioplace.com:3002/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
-                  </button></a>
+                    <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less </h2>
+                <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                </button></a>
+
                   </div>
               </div>
             </div>
@@ -147,8 +149,8 @@
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/3/2888/32905833514_302c70266b_b.jpg" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1">PHP, CSS3, Jquery UI, Mysql</h2>
-                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <h2 class="hoverText1">NodeJs, HTML5, ReactJs, BableJs</h2>
+                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
@@ -159,11 +161,11 @@
             <div class="col-md-4">
               <!-- FEATURE FOUR SCROLL-EFFECT -->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
-                  <div class="overlay">
-                    <h2 class="hoverText1"> PHP, CSS3, Jquery, JqueryUI </h2>
-                <a href="http://webstudioplace.com:3003/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
-                </button></a>
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
+                    <div class="overlay">
+                      <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
+                    <a href="http://webstudioplace.com:3002/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
+                    </button></a>
                   </div>
               </div>
             </div>
@@ -173,20 +175,21 @@
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c1.staticflickr.com/3/2883/32905833274_f61f6905af_b.jpg" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, jquery </h2>
-                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <h2 class="hoverText1"> HTML5, Font-Awsome, Bootstrap, Jquery </h2>
+                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
             </div>
 
             <div class="col-md-4">
-              <!-- FEATURE SIX ANGULAR JS-->
+              <!-- FEATURE SIX WSP -->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5468/31091850711_b5a09fb23b_o.png" alt="" />
+                <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5808/31091850541_9ca2856244_o.png" alt="" />
+
                   <div class="overlay">
-                    <h2 class="hoverText1">Angular, SASS, Angular Animate,   </h2>
-                <a href="http://webstudioplace.com:3005/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <h2 class="hoverText1">NPM, Forever, NodeJs, ExpressJs, EJS    </h2>
+                    <a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
