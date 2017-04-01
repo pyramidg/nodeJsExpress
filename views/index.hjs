@@ -164,7 +164,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
                     <div class="overlay">
                       <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
-                    <a href="http://webstudioplace.com:3002/" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
+                    <a href="http://webstudioplace.com:3002/#Guest" target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
                     </button></a>
                   </div>
               </div>
