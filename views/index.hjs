@@ -145,12 +145,12 @@
             </div>
 
             <div class="col-md-4">
-              <!-- FEATURE THREE REACT-->
+              <!-- FEATURE THREE REACT  http://webstudioplace.com:3004/-->
               <div class="hover ehover3">
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/3/2888/32905833514_302c70266b_b.jpg" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">NodeJs, HTML5, ReactJs, BableJs</h2>
-                <a href="http://webstudioplace.com:3004/ " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                 <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> Coming Soon
                 </button></a>
                   </div>
               </div>
