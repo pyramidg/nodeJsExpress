@@ -171,12 +171,12 @@
             </div>
 
             <div class="col-md-4">
-              <!-- FEATURE FIVE CODE SAMPLE WORK_DEMO-->
+              <!-- FEATURE FIVE CODE SAMPLE WORK_DEMO http://webstudioplace.com:3006/ -->
               <div class="hover ehover3">
-                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/4/3736/33774431465_ccffeff8dd_b.jpg" alt="" />
+                <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5755/30384564464_ec3e8d5f8f_o.png" alt="" />
                   <div class="overlay">
-                    <h2 class="hoverText1"> API, XHR, AJAX, Angular  </h2>
-                  <a href="http://webstudioplace.com:3006/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <h2 class="hoverText1"> Wordpress, Php, Jquery, mysql </h2>
+                  <a href="http://househuntersnetwork.com/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
