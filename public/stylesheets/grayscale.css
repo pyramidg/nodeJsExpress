@@ -701,3 +701,12 @@ body {
  opacity: 1;
  transform: scale(1);
 }
+
+
+.project-bg{
+    background: black;
+}
+
+.pro-txt{
+    color:white;
+}
