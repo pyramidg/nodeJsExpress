@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
 
 
@@ -126,7 +127,7 @@
 
       						<div class="overlay">
       							<h2 class="hoverText1"> AngularJs, Ejs, Json, NodeJs</h2>
-                    <a href="http://webstudioplace.com:3003/" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <a href="#" target="_blank" >    <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                </button><a/>
       						</div>
       				</div>
@@ -137,7 +138,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5574/31091850331_6c672a07c5_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
-                <a href="http://webstudioplace.com:3005/" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                <a href="#" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
 
                   </div>
@@ -164,7 +165,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c2.staticflickr.com/6/5819/30384564324_2208ee5556_o.png" alt="" />
                     <div class="overlay">
                       <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
-                    <a href="http://webstudioplace.com:3002/# " target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
+                    <a href="# " target="_blank" >  <button class="info hoverText1" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
                     </button></a>
                   </div>
               </div>
@@ -176,7 +177,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c2.staticflickr.com/6/5755/30384564464_ec3e8d5f8f_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> Wordpress, Php, Jquery, mysql </h2>
-                  <a href="http://househuntersnetwork.com/" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                  <a href="#" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
@@ -189,7 +190,7 @@
 
                   <div class="overlay">
                     <h2 class="hoverText1">NPM, Forever, NodeJs, ExpressJs, EJS    </h2>
-                    <a href="http://webstudioplace.com" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
+                    <a href="#" target="_blank" > 			<button class="info hoverText1" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
