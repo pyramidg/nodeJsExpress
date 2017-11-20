@@ -126,7 +126,7 @@
 
       						<div class="overlay">
       							<h2 class="hoverText1"> AngularJs, Ejs, Json, NodeJs</h2>
-                    <a href="https://codepen.io/stillCoding/pen/xPYjrN" target="_blank" >    <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                    <a href="https://codepen.io/stillCoding/full/xPYjrN" target="_blank" >    <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                </button><a/>
       						</div>
       				</div>
@@ -137,7 +137,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow " src="https://c1.staticflickr.com/5/4522/37829247704_6b895e7380_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">HTML5, Bootstrap, Jquery, CSS3 </h2>
-                <a href="https://codepen.io/stillCoding/pen/LOQmrE" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                <a href="https://codepen.io/stillCoding/full/LOQmrE" target="_blank" >     <button class="info hoverText1" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
 
                   </div>
@@ -150,7 +150,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/5/4553/37657675465_c4688ebac2_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1">NodeJs, HTML5, ReactJs, BableJs</h2>
-                <a href="https://codepen.io/stillCoding/pen/rYJvqb " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                <a href="https://codepen.io/stillCoding/full/rYJvqb " target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
@@ -164,7 +164,7 @@
                 <img class="img-responsive img-rounded img1 hvr-grow-shadow " src="https://c1.staticflickr.com/5/4535/38488875076_d748bcf685_o.png" alt="" />
                     <div class="overlay">
                       <h2 class="hoverText1"> React-Dom, JSX, BabelJs, AngularJs, Less, Jasmine  </h2>
-                    <a href="https://codepen.io/stillCoding/pen/QOQroB " target="_blank" >  <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
+                    <a href="https://codepen.io/stillCoding/full/QOQroB " target="_blank" >  <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">    <span class="glyphicon glyphicon-link "></span> View
                     </button></a>
                   </div>
               </div>
@@ -176,7 +176,7 @@
                 <img class="img-responsive img-rounded img2 hvr-grow-shadow" src="https://c1.staticflickr.com/5/4561/37657675595_a7fabe8fb4_o.png" alt="" />
                   <div class="overlay">
                     <h2 class="hoverText1"> API, XHR, AJAX, Angular  </h2>
-                  <a href="https://codepen.io/stillCoding/pen/ZarodZ" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
+                  <a href="https://codepen.io/stillCoding/full/ZarodZ" target="_blank" >   <button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3">  <span class="glyphicon glyphicon-link "></span> View
                   </button></a>
                   </div>
               </div>
@@ -189,7 +189,7 @@
 
                   <div class="overlay">
                     <h2 class="hoverText1">NPM, Forever, NodeJs, ExpressJs, EJS    </h2>
-                    <a href="https://codepen.io/stillCoding/pen/WXMybg" target="_blank" > 			<button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
+                    <a href="https://codepen.io/stillCoding/full/WXMybg" target="_blank" > 			<button class="info hoverText1 blk" data-toggle="modal" data-target="#modal3"> <span class="glyphicon glyphicon-link "></span> View
                 </button></a>
                   </div>
               </div>
