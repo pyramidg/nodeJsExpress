@@ -645,7 +645,7 @@ body {
   position: relative;
   font-size: 17px;
   padding: 10px;
-  background: black;
+  background: grey;
 }
 
 .hover button.info.blk{
