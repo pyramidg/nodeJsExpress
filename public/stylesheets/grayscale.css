@@ -406,7 +406,7 @@ body {
 
 
 
-@import url('http://fonts.googleapis.com/css?family=Lobster+Two');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
 
 *{
   box-sizing: border-box;
@@ -422,7 +422,6 @@ body {
 .box{
   width: 250px;
   height: 200px;
-  background-image: url('http://webstudioplace.com/wp-content/uploads/2016/01/hhn-portfolio-img.jpeg');
 
   background-size: cover;
   overflow: hidden;
